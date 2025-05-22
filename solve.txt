@@ -1,0 +1,12 @@
+ Pull Request (PR): Proposal to merge code changes in Git (e.g., on GitHub).
+
+Request: Generic term (e.g., API request, access request).
+
+Difference: PRs are Git-specific; "request" is broad.
+
+4)git branch -d new-email          
+git push origin --delete new-email 
+5)git push -u origin branch-name
+6)git checkout feature-branch
+git rebase main
+8)git diff current-branch..r
